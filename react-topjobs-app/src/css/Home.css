@@ -1,0 +1,17 @@
+.btn-skew{
+    font-size: 1rem;
+    color: #fff;
+    background-color: #3a3a68;
+    width: 13rem;
+    transform: skew(-10deg);
+    box-shadow: 0.2rem 0.2rem 0.5rem #555;
+    border: 1px solid #3a3a68;
+    border-radius: 6px;
+
+}
+
+.btn-skew:hover {
+    background: #6b458b;
+    color: white;
+}
+

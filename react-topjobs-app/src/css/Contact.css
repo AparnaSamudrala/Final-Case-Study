@@ -1,0 +1,16 @@
+.bg-cadet{
+    background-color: #e3f2fd;
+    border-radius: 6px;
+    border: 2px solid slategrey;
+  }
+
+  .border-radius-0{
+    border-radius: 0 !important;
+  }
+
+  .img-banner{
+    background-position: center center;
+    width: 100%;
+    background-size: cover;
+  }
+ 

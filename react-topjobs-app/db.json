@@ -1,0 +1,122 @@
+{
+  "joblists": [
+    {
+      "desg": "Sales Manager",
+      "title": "SRG International",
+      "exp": "5-8 years",
+      "sal": "Not disclosed",
+      "location": "Faridabad",
+      "id": "job1"
+    },
+    {
+      "desg": "Accounts Officer - Banking",
+      "title": "Kaypee Food Products",
+      "exp": "4-9 years",
+      "sal": "2,75,000 - 4,00,000 PA",
+      "location": "Gwalior",
+      "id": "job2"
+    },
+    {
+      "desg": "SAP FICO Consultant",
+      "title": "Bhavana Balakrishna Govekar",
+      "exp": "10-15 years",
+      "sal": "10,00,000 - 12,00,000 PA",
+      "location": "Mumbai",
+      "id": "job3"
+    },
+    {
+      "desg": "Assistant Manager - PLM",
+      "title": "Indigo Airlines",
+      "exp": "1-6 years",
+      "sal": "Not disclosed",
+      "location": "remote",
+      "id": "job4"
+    },
+    {
+      "desg": "Web Logic Portal",
+      "title": "ezprohub llc ",
+      "exp": "2-5 years",
+      "sal": "Not disclosed",
+      "location": "Coimbatore",
+      "id": "job5"
+    },
+    {
+      "desg": "Account Executive",
+      "title": "Hitech Information Fast Services",
+      "exp": "4-6 years",
+      "sal": "3,00,000 - 5,00,000 PA",
+      "location": "Pune(Shukravar Peth)",
+      "id": "job6"
+    }
+  ],
+  "contactData": [
+    {
+      "address": "123 Park Avenue C, AK Marg, Delhi, India",
+      "phone": [
+        "(91) 987 654 3210",
+        "(91) 987 654 3211"
+      ],
+      "email": "contact@topjobs.com"
+    }
+  ],
+  "messages": [
+    {
+      "firstName": "radhika",
+      "email": "appu@g.com",
+      "phone": "1234567890",
+      "subject": "cxzczxzxda",
+      "id": "77edc009"
+    },
+    {
+      "firstName": "Niharika",
+      "email": "radhikaraidu@gmail.com",
+      "phone": "1234567890",
+      "subject": "cxzczzxczxczxczxcz",
+      "id": "2b14394a"
+    },
+    {
+      "firstName": "radhika",
+      "email": "appu@g.com",
+      "phone": "1234567890",
+      "subject": "eeeeewewqe",
+      "id": "2172eedd"
+    },
+    {
+      "firstName": "Niharika",
+      "email": "radhikaraidu@gmail.com",
+      "phone": "1234567890",
+      "subject": "fsdfsd ffdsfd",
+      "id": "1b60a096"
+    },
+    {
+      "firstName": "Niharika",
+      "email": "radhikaraidu@gmail.com",
+      "phone": "1234567890",
+      "subject": "ugguyuiyuiyuiyui",
+      "id": "102c1494"
+    },
+    {
+      "firstName": "fdsfsd",
+      "email": "ddvds@fd.co",
+      "phone": "2112213112",
+      "subject": "wqweqewewsw",
+      "id": "710c1b7e"
+    }
+  ],
+  "applications": [
+    {
+      "firstName": "dsadas",
+      "email": "aravinda@gmail.com",
+      "phone": "1232131321",
+      "experience": "5 - 8 years",
+      "id": "job1"
+    },
+    {
+      "firstName": "Swapna",
+      "email": "aravinda@gmail.com",
+      "phone": "1234567890",
+      "experience": "5 - 8 years",
+      "id": "job2"
+    }
+  ]
+}
