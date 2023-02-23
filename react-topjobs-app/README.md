@@ -179,6 +179,10 @@ Testing playground extension of google chrome helps our job a way easy in writin
 
  You no longer need to import React from "react". Starting from the release 17 of React, JSX is automatically transformed without using React.createElement.
 However, other exports like hooks must be imported.
+========================
+To register an event handler for the capture phase, append Capture to the event name; for example, instead of using onClick, you would use onClickCapture to handle the click event in the capture phase. (used in jobcards.js)
+Here if u click on card or apply btn both does the same (navigate to apply page)
+
 
 
 
