@@ -23,7 +23,7 @@ const JobCards = () => {
       ) : null}
       {!loading ? (
         data.map((item, index) => (
-          <div className="card text-dark shadow-lg mb-3" key={index}>
+          <div className="card text-dark shadow-lg mb-3" key={index}   style={{cursor: 'pointer'}} onClickCapture = {() => navigate(`/applyjob/${item.id}`)}>
             <div className="card-body row">
               <div className="col-md-10">
                 <h5 className="card-title">{item.desg}</h5>
@@ -47,7 +47,7 @@ const JobCards = () => {
               <div className="col-md-2 d-flex justify-content-center align-items-center">
                 <button
                   className="btn-skew"
-                  onClick={() => navigate(`/applyjob/${item.id}`)}
+                 
                 >
                   Apply Now
                 </button>
