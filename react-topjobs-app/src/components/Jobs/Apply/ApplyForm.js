@@ -24,7 +24,7 @@ const ApplyForm = () => {
     console.log(data);
 
     await axios
-      .post("http://localhost:5000/applications", { ...data, id })
+      .post("https://jsonapi-nine.vercel.app/applications", { ...data, id })
       .then((res) => {
         let value = [res.data];
         console.log(value);
