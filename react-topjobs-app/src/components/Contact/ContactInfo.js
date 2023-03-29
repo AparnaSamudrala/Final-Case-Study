@@ -5,7 +5,7 @@ import LoadComp from "../../components/Loader/LoadComp";
 
 const ContactInfo = () => {
     
-    const baseURL = "http://localhost:5000/contactData";
+    const baseURL = "https://jsonapi-nine.vercel.app/contactData";
     const [data,loading] = useAxios(baseURL);
 
   return (
