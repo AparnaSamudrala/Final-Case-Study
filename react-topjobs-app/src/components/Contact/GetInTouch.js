@@ -19,7 +19,7 @@ const GetInTouch = () => {
     console.log(data);
 
     await axios
-      .post("http://localhost:5000/messages", { ...data, id })
+      .post("https://jsonapi-nine.vercel.app/messages", { ...data, id })
       .then((res) => {
         let value = [res.data];
         console.log(value);
