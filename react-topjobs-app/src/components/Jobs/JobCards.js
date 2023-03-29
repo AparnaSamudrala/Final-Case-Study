@@ -5,7 +5,7 @@ import ErrorAlert from "../../components/Alerts/ErrorAlert";
 
 const JobCards = () => {
   const navigate = useNavigate();
-  const baseURL = "http://localhost:5000/joblists";
+  const baseURL = "https://jsonapi-nine.vercel.app/joblists";
   const [data, loading] = useAxios(baseURL);
   return (
     <div className="m-5 bg-light p-5 border border-3 rounded">
